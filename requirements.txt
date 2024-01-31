@@ -1,0 +1,2 @@
+minerl @ git+https://github.com/minerllabs/minerl
+gym==0.19
